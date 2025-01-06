@@ -11,8 +11,8 @@ interface ISiteMetadataResult {
 
 const data: ISiteMetadataResult = {
   siteTitle: 'Running Page',
-  siteUrl: 'https://sam.run',
-  logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
+  siteUrl: 'https://github.com/SamuelDixxon',
+  logo: 'https://static.soapcentral.com/editor/2024/09/dc884-17262004042678.jpg',
   description: 'Personal site and blog',
   navLinks: [
     {
